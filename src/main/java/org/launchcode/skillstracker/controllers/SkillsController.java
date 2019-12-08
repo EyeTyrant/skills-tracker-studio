@@ -23,8 +23,8 @@ public class SkillsController {
   public String favForm(){
 
     String skillOptions =
-        "<option value='Java'>Java</option>\n" +
-        "<option value='JavaScript'>JavaScript</option>\n" +
+        "<option value='Java'>Java</option>" +
+        "<option value='JavaScript'>JavaScript</option>" +
         "<option value='Python'>Python</option>";
 
     return
